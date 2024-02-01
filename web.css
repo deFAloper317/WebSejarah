@@ -1,0 +1,187 @@
+body{
+    margin: 0%;
+    background-image: url(POTO/sukant-sharma-b6rs6V_9lH4-unsplash.jpg);
+    background-size: cover;
+    background-position: -0px -300px;
+}
+
+.topbar{
+    position: fixed;
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    background-color: #860000;
+    box-shadow: 0px 10px 15px black;
+}
+
+.judul-topbar{
+    float: left;
+    color: black;
+    margin-left: 10px;
+    margin-top: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+.button{
+    width: 130px;
+    margin-top: 12px;
+    margin-right: 10px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.button1{
+    float: right;
+    margin-right: 25px;
+    width: 50   px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button2{
+    float: right;
+    width: 50px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: max-content;
+    display: inline-block;
+}
+
+.box1{
+    width: 80%;
+    height: 600px;
+    float: left;
+    border-right: none;
+    padding-left: 10px;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+
+.judul-box1{
+    font-size: 40px;
+    font-family: "Kanit", sans-serif;
+    font-style: italic;
+    margin-right: 40%;
+    line-height: 35px;
+    text-shadow: -5px 5px 10px #860000;
+    letter-spacing: 5px;
+}
+
+.judul2-box1{
+    color: black;
+    margin-top: -30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.box2{
+    width: 100%;
+    height: 600px;
+    float: right;
+    margin-top: -600px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.pak-ari{
+    width: 1500px;
+    height: 1300px;
+    float: right;
+    margin-top: -600px;
+    margin-right: -50px;
+}
+
+.motif{
+    position: absolute;
+    background-position: 0px -200px;
+    float: right;
+    width: 100%;
+    height: 500px;
+    z-index: 99999;
+}
+.mid{
+    background-color: #860000;
+    width: 100%;
+    height: 1200px;
+    box-sizing: border-box;
+    padding-top: 70px;
+    box-shadow: 0px -30px 40px;
+}
+
+.mini-container{
+    box-shadow: 10px 10px 10px;
+    width: 90%;
+    margin: auto;
+}
+
+.mini-boxx{
+    background-color: white ;
+    width: 100%;
+    height: 150px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.judul-boxx{
+    line-height: 20px;
+    color: black;
+    font-family: "Kanit", sans-serif;
+    text-shadow: 7px 7px 8px;
+}
+
+.judul2-boxx{
+    margin-top: -10px;
+    line-height: 20px;
+    color: #860000;
+    font-family: "Kanit", sans-serif;
+    text-shadow: 7px 7px 8px;
+}
+
+.mini-boxxx{
+    box-sizing: border-box;
+    background-image: url(POTO/nitish-meena-RbbdzZBKRDY-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: -1400px -900px;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+}
+
+.mini-boxxxx{
+    box-sizing: border-box;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: -1500px -1500px;
+    width: 100%;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: -20px;
+    overflow: scroll;
+}
+
+.judul-boxxxx{
+    color: black;
+    margin-right: 60%;
+    font-family: "Kanit", sans-serif;
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-shadow: 6px 6px 8px;
+}
+
+
+
